@@ -1,0 +1,15 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #000000;
+    font-size: 16px;
+}
+html{
+    scroll-behavior: smooth;
+}
+.active{
+    background-color: #000000;
+}
